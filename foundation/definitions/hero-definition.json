@@ -1,0 +1,26 @@
+{
+    "id": "hero",
+    "title": "Hero",
+    "fields": [
+      {
+        "name": "title",
+        "type": "text"
+      },
+      {
+        "name": "description",
+        "type": "textarea"
+      },
+      {
+        "name": "image",
+        "type": "asset"
+      },
+      {
+        "name": "ctaText",
+        "type": "text"
+      },
+      {
+        "name": "ctaLink",
+        "type": "text"
+      }
+    ]
+  }
